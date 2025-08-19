@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZHEdward92
-- 👀 I’m interested in building Angular Web App
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on building interesting angular project
+- 👀 I’m interested in any kind of application building especially for manufacturing
+- 🌱 I’m currently learning software architecture
+- 💞️ I’m looking to collaborate on building interesting software project
 - 📫 How to reach me - edwardzihao@gmail.com
 
 <!---
